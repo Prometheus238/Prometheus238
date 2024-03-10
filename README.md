@@ -13,6 +13,8 @@ I'm a passionate Data Engineer/Analyst based in Canada. With a background in Dat
 - **[Tools and Platforms:]** Jenkins, VS Code, Apache Kafka, GitHub, Git (Version Control), Microsoft Office/Google suite, Confluence, JIRA, Streamlit, Rivery, airbyte
 - **[Collaboration and Project Management:]** Documentation and reporting, Client Collaboration, Teamwork, Effective Communication
 
+[![My Skills](https://skillicons.dev/icons?i=python,sql,pyspark,shell,bash&perline=3)](https://skillicons.dev)
+
 ## 🌱 Projects
 
 Here are some projects I've worked on:
@@ -29,4 +31,11 @@ Here are some projects I've worked on:
 ## 🤝 Looking Forward
 
 I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you want to connect or discuss anything!
+
+![Prometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheus4587&theme=transparent&show_icons=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Prometheus4587/count.svg" />
+</p>
 
