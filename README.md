@@ -32,7 +32,7 @@ Here are some projects I've worked on:
 
 I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you want to connect or discuss anything!
 
-![Prometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheus4587&theme=transparent&show_icons=true)
+![Prometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheus238&theme=transparent&show_icons=true)
 
 <p align="center"> 
   Visitor count<br>
