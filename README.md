@@ -1,6 +1,9 @@
+
 > "Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful." - Dan Heath
 
-# Hello, I'm Reedham Patel! 👋
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzeGhnN292cDJnc2Q3NnhxeHV0eDlrN242eGZ0cTZqdmMxM2RweSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ptzlRfMuHaGgccUzbh/giphy.gif)
+
+# I'm Reedham Patel! 👋
 
 I'm a passionate Data Engineer/Analyst based in Canada. With a background in Data Engineering, I specialize in drawing Insights from Data. I love building and creating things that make a positive impact.
 
@@ -13,26 +16,23 @@ I'm a passionate Data Engineer/Analyst based in Canada. With a background in Dat
 - **[Tools and Platforms:]** Jenkins, VS Code, Apache Kafka, GitHub, Git (Version Control), Microsoft Office/Google suite, Confluence, JIRA, Streamlit, Rivery, airbyte
 - **[Collaboration and Project Management:]** Documentation and reporting, Client Collaboration, Teamwork, Effective Communication
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,pyspark,shell,bash&perline=3)](https://skillicons.dev)
-
 ## 🌱 Projects
 
 Here are some projects I've worked on:
 
-- **[Project Name]:** [Brief description and link/demo]
-- **[Project Name]:** [Brief description and link/demo]
-- **[Project Name]:** [Brief description and link/demo]
-
-## 📫 Let's Connect!
-
-- LinkedIn: [In/ReedhamPatel](www.linkedin.com/in/reedham-patel-3a4567132)
-- Email: Reedham23@gmail.com
+- [Telecom-Churn-AnalysisTelecom-Churn-Analysis](https://github.com/Prometheus238/Telecom-Churn-Analysis)
+- [Covid19_arcgis_AnalysisCovid19_arcgis_Analysis](https://github.com/Prometheus238/Covid19_arcgis_Analysis)
+- [Job Market Segmentation](https://github.com/Prometheus238/feynn)
+- [Loan-Analysis](https://github.com/Prometheus238/Loan-Analysis)
 
 ## 🤝 Looking Forward
 
 I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you want to connect or discuss anything!
 
-![Prometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheus238&theme=transparent&show_icons=true)
+## 📫 Let's Connect!
+
+- LinkedIn: [In/ReedhamPatel](www.linkedin.com/in/reedham-patel-3a4567132)
+- Email: Reedham23@gmail.com
 
 <p align="center"> 
   Visitor count<br>
