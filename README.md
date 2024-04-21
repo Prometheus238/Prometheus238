@@ -1,8 +1,6 @@
 
 > "Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful." - Dan Heath
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzeGhnN292cDJnc2Q3NnhxeHV0eDlrN242eGZ0cTZqdmMxM2RweSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ptzlRfMuHaGgccUzbh/giphy.gif)
-
 # I'm Reedham Patel! 👋
 
 I'm a passionate Data Engineer/Analyst based in Canada. With a background in Data Engineering, I specialize in drawing Insights from Data. I love building and creating things that make a positive impact.
