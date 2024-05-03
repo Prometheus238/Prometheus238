@@ -3,7 +3,7 @@
 
 # I'm Reedham Patel! 👋
 
-I'm a passionate Data Engineer/Analyst based in Canada. With a background in Data Engineering, I specialize in drawing Insights from Data. I love building and creating things that make a positive impact.
+I'm a passionate and Experienced Data Engineer/Analyst based in Canada. With a background in Data Engineering, I specialize in drawing Insights from Data. I love building and creating things that make a positive impact.
 
 ## 🚀 My Skills
 
