@@ -18,8 +18,8 @@ I'm a passionate and Experienced Data Engineer/Analyst based in Canada. With a b
 
 Here are some projects I've worked on:
 
-- [Telecom-Churn-AnalysisTelecom-Churn-Analysis](https://github.com/Prometheus238/Telecom-Churn-Analysis)
-- [Covid19_arcgis_AnalysisCovid19_arcgis_Analysis](https://github.com/Prometheus238/Covid19_arcgis_Analysis)
+- [Telecom-Churn-Analysis](https://github.com/Prometheus238/Telecom-Churn-Analysis)
+- [Covid19_arcgis_Analysis](https://github.com/Prometheus238/Covid19_arcgis_Analysis)
 - [Job Market Segmentation](https://github.com/Prometheus238/feynn)
 - [Loan-Analysis](https://github.com/Prometheus238/Loan-Analysis)
 
