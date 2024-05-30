@@ -31,7 +31,8 @@ I'm always open to new opportunities, collaborations, and interesting projects. 
 
 - LinkedIn: [In/ReedhamPatel](www.linkedin.com/in/reedham-patel-3a4567132)
 - Email: Reedham23@gmail.com
-
+- Portfolio: [Framer/ReedhamPatel](https://reedhampatel.framer.website/)
+  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Prometheus4587/count.svg" />
